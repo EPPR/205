@@ -1,7 +1,7 @@
 # GITHUB PROJECTS
 ## ¿Qué es?
 
-<< Pendiente >>
+Es una tabla de proyectos en donde puedes organizar con tarjetas los issues del proyecto que pueden ser mejorados.
 
 ## ¿Para qué sirve?
 
