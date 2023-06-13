@@ -1,2 +1,14 @@
 # 205
 Bienvenido al repositorio de la clase 205.
+Como bien menciono mi compañero, github es una herramienta que podemos usar para muchas cosas, en este caso, metodologías agiles. La manera en la que podemos combinar o adaptar github a estas metodologías, es con el uso de los proyectos en github. 
+Estos proyectos constan de un tablero en el que se organizan y se priorizan las tareas pendientes del proyecto, mismo que se divine en columnas, las necesarias dependiendo del proyecto en el que se trabaje. 
+Las personas o colaboradores que deseen trabajar con nosotros, pueden trabajar en las actividades pendientes del tablero según les convenga, esto por medio de pull request que los usuarios harán al proyecto principal y se usan principalmente para proponer cambios
+Estos tableros permiten que los equipos de trabajo se organicen de forma eficiente, viendo en tiempo real las tareas que van completándose, los cambios propuestos y los colaboradores que mas han contribuido 
+Como bien menciono mi compañero, github es una herramienta que podemos usar para muchas cosas, en este caso, metodologías agiles. La manera en la que podemos combinar o adaptar github a estas metodologías, es con el uso de los proyectos en github. 
+Estos proyectos constan de un tablero en el que se organizan y se priorizan las tareas pendientes del proyecto, mismo que se divine en columnas, las necesarias dependiendo del proyecto en el que se trabaje. 
+Las personas o colaboradores que deseen trabajar con nosotros, pueden trabajar en las actividades pendientes del tablero según les convenga, esto por medio de pull request que los usuarios harán al proyecto principal y se usan principalmente para proponer cambios
+Estos tableros permiten que los equipos de trabajo se organicen de forma eficiente, viendo en tiempo real las tareas que van completándose, los cambios propuestos y los colaboradores que mas han contribuido 
+Como bien menciono mi compañero, github es una herramienta que podemos usar para muchas cosas, en este caso, metodologías agiles. La manera en la que podemos combinar o adaptar github a estas metodologías, es con el uso de los proyectos en github. 
+Estos proyectos constan de un tablero en el que se organizan y se priorizan las tareas pendientes del proyecto, mismo que se divine en columnas, las necesarias dependiendo del proyecto en el que se trabaje. 
+Las personas o colaboradores que deseen trabajar con nosotros, pueden trabajar en las actividades pendientes del tablero según les convenga, esto por medio de pull request que los usuarios harán al proyecto principal y se usan principalmente para proponer cambios
+Estos tableros permiten que los equipos de trabajo se organicen de forma eficiente, viendo en tiempo real las tareas que van completándose, los cambios propuestos y los colaboradores que mas han contribuido 
