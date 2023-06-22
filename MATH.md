@@ -8,3 +8,5 @@ v = d * t
 Si la distancia recorrida es 100 metros y el tiempo fue de 17 segundos.
 
 ¿Cuál es la velocidad del objeto en cuestión?
+
+## 28 minutos
